@@ -33,3 +33,22 @@ body{
 .navbar-links ul{
     float: right;
 }
+
+.box-in-the-middle {
+    padding: 2rem;
+    border: 12px solid whitesmoke;
+    background-color: whitesmoke;
+    display: block;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    border-radius: 10px; 
+  }
+  
+
+.social {
+    padding-top: 35px;
+    color: #0a0909;
+}
